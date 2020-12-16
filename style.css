@@ -1,0 +1,48 @@
+body {
+    background-color: #DDFFDD;
+    color: #002200;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    width: 45%;
+    margin: 30px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#fk {
+    font-weight: bold;
+}
+
+div {
+    text-align: center;
+}
+
+#kicsi {
+    width: 140px;
+    float: right;
+}
+
+#behuz {
+    padding-left: 25px;
+}
+
+ul li ul li {
+    list-style-type: none;
+    font-weight: normal;
+}
+
+ul li ul li:first-child {
+    padding-top: 20px;
+}
+
+ul li ul li:last-child {
+    padding-bottom: 20px;
+}
+
+hr {
+    height: 55px;
+    background-image: url('csillag.png');
+    border: none;
+}
